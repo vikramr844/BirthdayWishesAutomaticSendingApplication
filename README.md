@@ -1,0 +1,2 @@
+# BirthdayWishesAutomaticSendingApplication
+Automatic message sending application using UltraMSG website
